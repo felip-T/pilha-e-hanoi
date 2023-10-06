@@ -6,7 +6,7 @@ LDFLAGS = -Wall
 
 OBJS = main.cpp hanoi.cpp 
 
-TARGET = main
+TARGET = hanoi
 
 .cpp.o:
 	$(CC) $(CFLAGS) -c $@

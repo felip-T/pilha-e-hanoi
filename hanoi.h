@@ -10,9 +10,9 @@ public:
   hanoi(unsigned);
   ~hanoi();
   void solve();
-  void print();
 
 private:
+  void print();
 	Pilha<unsigned> *p[3];
 	void move(unsigned, unsigned);
 	void solver(unsigned, unsigned, unsigned, unsigned);
