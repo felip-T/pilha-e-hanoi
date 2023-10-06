@@ -6,7 +6,7 @@ Utilização:
     hanoi <número de discos>
 ```
 # pilha.h
-Foi implementada uma classe template "Pilha".
+Foi implementadas uma classe template "Pilha".
 Os métodos implementados são:
 
 - Adicionar na pilha
