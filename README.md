@@ -1,4 +1,4 @@
-# Classe Pinha e resolução da torre de Hanói
+# Classe Pilha e resolução da torre de Hanói
 O código é composto pelos arquivos hanoi.h, pilha.h, hanoi.cpp e main.cpp. Adicionalmente, um arquivo Makefile com instruções para compilação em linux (GCC) foi implementado. O repositório possuí também um arquivo "exemplo.txt", com um exemplo de saída do programa.
 
 Utilização:
