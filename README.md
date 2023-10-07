@@ -44,12 +44,12 @@ Os métodos implementados são:
 Foram implementados também um construtor, destrutor e construtor de cópia.
 
 # hanoi.h
-A classe hanoi utiliza da classe pilha para simular e resolver um jogo de hanói. O tamanho do jogo é passado como argumento para o construtor da classe.
-O único método público da classe resolve o jogo e imprime passo a passo da resolução.
+A classe hanoi utiliza da classe pilha para simular e resolver uma torre de hanói. O tamanho da torre é passado como argumento para o construtor da classe.
+O único método público da classe resolve a torre e imprime passo a passo da resolução.
 ```cpp
     void solve()
 ```
-O arquivo hanoi.cpp possuí a implementação dos métodos definidos em hanoi.h
+O arquivo hanoi.cpp possuí a implementação dos métodos definidos em hanoi.h.
 
 # main.cpp
 Possuí a função principal do programa, faz uma validação do argumento de linha de comando e resolve a torre de hanói com o número de discos especificado.
